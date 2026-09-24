@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 00000000000000000000000000000000
+  productGUID: d67855aab7e414e5dbe9531c26945cd3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -867,7 +867,7 @@ PlayerSettings:
   cloudProjectId: 6113b47f-ef29-4f36-9300-5b89311c9028
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: robot-repair-supruniuk
   organizationId: unity_8542f9d6f5fccbb4a1da
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
